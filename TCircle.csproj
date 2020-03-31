@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="D:\Dokument\A_Даринка\Модульна контрольна робота №3\TCircle\Program.cs" Link="Program.cs" />
+    <Compile Include="D:\Dokument\A_Даринка\Модульна контрольна робота №3\TCircle\TCircle.cs" Link="TCircle.cs" />
+  </ItemGroup>
+
+</Project>
